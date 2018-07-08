@@ -5,3 +5,5 @@ function add() {
 function add2() {
 	return true;
 }
+
+ul = 10;
